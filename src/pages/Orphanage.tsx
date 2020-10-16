@@ -6,8 +6,9 @@ import L from 'leaflet';
 
 import mapMarkerImg from '../images/MapMarker.svg';
 
-import '../styles/pages/orphanage.css';
 import Sidebar from "../components/Sidebar";
+
+import '../styles/pages/orphanage.css';
 
 const happyMapIcon = L.icon({
   iconUrl: mapMarkerImg,
