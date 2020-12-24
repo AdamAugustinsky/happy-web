@@ -52,7 +52,6 @@ To get a local copy up and running follow these simple steps.
 Install the following:
 * [Node.js](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/getting-started/install) (Optional)
-* [Expo](https://expo.io/learn)
 
 ### Installation
 
